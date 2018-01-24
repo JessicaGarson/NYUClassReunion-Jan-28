@@ -23,6 +23,8 @@ Project Night (Plus: Help Me With My Python Questions with Eric!)](https://www.m
 
 2/3 - [Science of Music Hackathon](https://www.eventbrite.com/e/science-of-music-hackathon-tickets-42323599024?aff=ebapi)
 
+2/6 - [NY Tech Meet Up](https://www.meetup.com/ny-tech/events/245649563/)
+
 2/10 - [Fish Hackathon](https://hackernest.com/events/new-york-fishackathon-2018)
 
 2/12 - [
