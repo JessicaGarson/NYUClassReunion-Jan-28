@@ -16,7 +16,16 @@ This your time to discuss anything interesting you learned in the past month?
 Jess will DJ for the class using Sonic Pi and Ruby and there will be time for others to show off anything new they are working on.
 
 ## Events
+1/31 - [
+Project Night (Plus: Help Me With My Python Questions with Eric!)](https://www.meetup.com/nycpython/events/246590715/)
+2/3 - [Databases + SQL](https://www.meetup.com/learn-python-nyc/events/247032218/)
+2/3 - [Science of Music Hackathon](https://www.eventbrite.com/e/science-of-music-hackathon-tickets-42323599024?aff=ebapi)
+2/10 - [Fish Hackathon](https://hackernest.com/events/new-york-fishackathon-2018)
+2/12 - [
+Women Who Code - Technically Wrong: Sexist Apps, Biased Algorithms, & Other Threats of Toxic Tech](https://www.meetup.com/WomenWhoCodeNYC/events/246422752/) 
+2/15 - [Brooklyn JS](http://tickets.brooklynjs.com/)
 2/13 - [Messica Arson DJing at the Algorave](https://www.facebook.com/events/159771637999316)
+2/24 - [HACK THE GENOME](https://sequencing.com/hackathons/hack-the-genome-times-square-nyc-2018)
 
 ## How Regularly Should We Meet?
 We will have a discussion about how often we should meet and what other topics we should cover.
