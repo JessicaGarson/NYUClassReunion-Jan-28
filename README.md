@@ -30,9 +30,9 @@ Project Night (Plus: Help Me With My Python Questions with Eric!)](https://www.m
 2/12 - [
 Women Who Code - Technically Wrong: Sexist Apps, Biased Algorithms, & Other Threats of Toxic Tech](https://www.meetup.com/WomenWhoCodeNYC/events/246422752/) 
 
-2/15 - [Brooklyn JS](http://tickets.brooklynjs.com/)
-
 2/13 - [Messica Arson DJing at the Algorave](https://www.facebook.com/events/159771637999316)
+
+2/15 - [Brooklyn JS](http://tickets.brooklynjs.com/)
 
 2/24 - [HACK THE GENOME](https://sequencing.com/hackathons/hack-the-genome-times-square-nyc-2018)
 
